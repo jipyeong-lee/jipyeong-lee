@@ -1,16 +1,13 @@
-### Hi there :) 👋
+### 안녕하세요 :) 👋 소소하게 진행했던 프로젝트, 공모전(대회) 정리하고 있습니다.
 
-<!--
-**jipyeong-lee/jipyeong-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Competition
+| 주관사 | 대회명 | 순위 |
+| :------: | :------:| :------:|
+| [DACON] LG | 시스템 품질 변화로 인한 사용자 불편 예지 AI 경진대회 | 24위(6%) |
+| [DACON] LH | 구내식당 식수 인원 예측 AI 경진대회 | 13위(2%) |
+| [DACON] 고용정보원 | 잡케어 추천 알고리즘 경진대회	| 13위(3%) |
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Education
+| 기간 | 전공 & 교육 | 학위 | 비고 |
+| :------: | :------: | :------: | :------: |
+| 2017.03 ~  | 빅데이터경영통계전공(AI빅데이터융합경영학과) | 학사 | 재학 |
