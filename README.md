@@ -1,4 +1,9 @@
-## Hello :) 👋 소소하게 진행했던 프로젝트, 공모전(대회) 정리하고 있습니다.
+## Hello :) 👋
+Hello, I'm Jipyeong Lee, studying **data science** :)
+I am going to graduate from Kookmin Univ. in 2023
+major in **AI Big Data & Management**, and minor in Computer Science.
+
+<br>
 
 ## Contact
 [![Instagram](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/jee_p0) 
