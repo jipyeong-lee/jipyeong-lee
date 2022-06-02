@@ -7,7 +7,7 @@
 <br>
 
 ## Tech Stack 🛠
-### Techs that I've used at least once
+#### Techs that I've used at least once
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -29,10 +29,16 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> </a>&nbsp 
 </p>
 
+#### Platform
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/> 
+
 <br>
 
+## GitHub Stats
+![jipyeong-lee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jipyeong-lee&show_icons=true&theme=swift)
+
 ## Education
-| 기간 | 학교 | 전공 & 교육 | 학위 | 비고 |
+| 기간 | 소속 | 전공 & 교육 | 학위 | 비고 |
 | :------: | :------: | :------: | :------: | :------: |
 | 2017.03 ~ | 국민대학교 | 빅데이터경영통계전공(AI빅데이터융합경영학과) | 학사 | 재학 |
 | 2022.06 ~ | SKT | SKT AI Fellowship 4기 | fellow | 진행 중 |
