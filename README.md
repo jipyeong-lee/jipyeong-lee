@@ -1,4 +1,40 @@
-## 안녕하세요 :) 👋 소소하게 진행했던 프로젝트, 공모전(대회) 정리하고 있습니다.
+## Hello :) 👋 소소하게 진행했던 프로젝트, 공모전(대회) 정리하고 있습니다.
+
+<h3 align="center"> 🧸 Profile 🧸 </h3>
+<p align="center">
+  <a href="https://www.facebook.com/profile.php?id=100005239173551"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100002164661658"/></a>&nbsp
+  <a href="[https://www.instagram.com/zdbsgur/](https://www.instagram.com/jee_p0/)"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/zdbsgur/"/></a>&nbsp
+  <a href="mailto:leejipyeong@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yhji1127@gmail.com"/></a>&nbsp
+</p>
+
+<br>
+
+<h3 align="center"> 🛠 Tech Stack 🛠 </h3>
+
+<p align="center"> Techs that I've used at least once </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=Microsoft Excel&logoColor=white"/></a>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> </a>&nbsp 
+</p>
+
+<br>
+<br>
 
 # Education
 | 기간 | 학교 | 전공 & 교육 | 학위 | 비고 |
@@ -20,3 +56,29 @@
 | [학교] 머신러닝 | Kaggle inclass competition | [링크](https://github.com/jipyeong-lee/Project_KMU/tree/master/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/competition) |
 | [학회] D&A conference | 제주도 사투리 번역기 | [링크](https://github.com/jipyeong-lee/Korean_Dialect_Translation) |
 | [학교] 딥러닝 | Keypoint detection을 활용한 좌우밸런스 판독기[선행연구 조사 및 연구계획 수립] | [링크](https://github.com/jipyeong-lee/Project_KMU/blob/master/%EB%94%A5%EB%9F%AC%EB%8B%9D/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EB%94%A5%EB%9F%AC%EB%8B%9D_11%EC%A1%B0_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C_%EC%B5%9C%EC%A2%85.pdf)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jipyeong-lee&layout=compact&theme=dark&langs_count=5)](https://github.com/jipyeong-lee/github-readme-stats)
+
+<br>
+
+![jipyeong-lee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jipyeong-lee&show_icons=true&theme=dark)
+
+<br>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=jipyeong-lee)
+
+<br>
+
+[![jipyeong-lee's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=jipyeong-lee&theme=rogue)](https://github.com/jipyeong-lee/github-readme-activity-graph)
+
+<br>
+
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjipyeong-lee&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
+</p>
+
+<br>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer&text=THANK%20YOU&fontSize=60&animation=fadeIn)
