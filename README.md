@@ -37,6 +37,8 @@
 ## GitHub Stats
 ![jipyeong-lee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jipyeong-lee&show_icons=true&theme=swift)
 
+<br>
+
 ## Education
 | 기간 | 소속 | 전공 & 교육 | 학위 | 비고 |
 | :------: | :------: | :------: | :------: | :------: |
