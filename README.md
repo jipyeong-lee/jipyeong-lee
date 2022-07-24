@@ -70,4 +70,4 @@ major in **AI Big Data & Management**, and minor in Computer Science.
 | [학교] 딥러닝 | Keypoint detection을 활용한 좌우밸런스 판독기[선행연구 조사 및 연구계획 수립] | [링크](https://github.com/jipyeong-lee/Project_KMU/blob/master/%EB%94%A5%EB%9F%AC%EB%8B%9D/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EB%94%A5%EB%9F%AC%EB%8B%9D_11%EC%A1%B0_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C_%EC%B5%9C%EC%A2%85.pdf)
 | [학교] 빅데이터프로젝트 : 캡스톤디자인2 | 우리은행 데이터를 활용한 소상공인과 코로나 분석 | [링크](https://github.com/jipyeong-lee/Capstone2_2021/blob/master/%5B2021%20%EC%BA%A1%EC%8A%A4%ED%86%A4%5D%20%EC%86%8C%EC%83%81%EA%B3%B5%EC%9D%B8%EA%B3%BC%20%EC%BD%94%EB%A1%9C%EB%82%98%20_%20%EB%84%88%ED%9D%AC%EC%9D%80%ED%96%89.pdf) |
 | [학교] AI빅데이터프로젝트 : 캡스톤디자인1 | G-ADLFM | [링크](https://github.com/jipyeong-lee/Capstone1_2022/blob/master/G_ADLFM_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pdf) |
-| [외부] SKT AI FELLOWSHIP 4th | 클라우드 데이터 내에서 개인정보탐지 기술 개발 | [링크](https://github.com/jipyeong-lee/Korean_Dialect_Translation) |
+| [외부] SKT AI FELLOWSHIP 4th | 클라우드 데이터 내에서 개인정보탐지 기술 개발 | [링크](https://github.com/jipyeong-lee/NER_project) |
