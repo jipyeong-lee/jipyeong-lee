@@ -64,7 +64,9 @@ major in **AI Big Data & Management**, and minor in Computer Science.
 ## Project
 | 주관 | 프로젝트명 | 링크 |
 | :------: | :------:| :------:|
-| [학교] 텍스트데이터분석 | 네이버 웹툰 텍스트분석을 통한 웹툰 키워드 추출 | [링크](https://github.com/jipyeong-lee/Project_KMU/tree/master/%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D) |
-| [학교] 머신러닝 | Kaggle inclass competition | [링크](https://github.com/jipyeong-lee/Project_KMU/tree/master/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/competition) |
-| [학회] D&A conference | 제주도 사투리 번역기 | [링크](https://github.com/jipyeong-lee/Korean_Dialect_Translation) |
-| [학교] 딥러닝 | Keypoint detection을 활용한 좌우밸런스 판독기[선행연구 조사 및 연구계획 수립] | [링크](https://github.com/jipyeong-lee/Project_KMU/blob/master/%EB%94%A5%EB%9F%AC%EB%8B%9D/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EB%94%A5%EB%9F%AC%EB%8B%9D_11%EC%A1%B0_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C_%EC%B5%9C%EC%A2%85.pdf)
+| [교내] 텍스트데이터분석 | 네이버 웹툰 텍스트분석을 통한 웹툰 키워드 추출 | [링크](https://github.com/jipyeong-lee/Project_KMU/tree/master/%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D) |
+| [교내] 머신러닝 | Kaggle inclass competition | [링크](https://github.com/jipyeong-lee/Project_KMU/tree/master/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/competition) |
+| [교내] D&A conference | 제주도 사투리 번역기 | [링크](https://github.com/jipyeong-lee/Korean_Dialect_Translation) |
+| [교내] 딥러닝 | Keypoint detection을 활용한 좌우밸런스 판독기[선행연구 조사 및 연구계획 수립] | [링크](https://github.com/jipyeong-lee/Project_KMU/blob/master/%EB%94%A5%EB%9F%AC%EB%8B%9D/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EB%94%A5%EB%9F%AC%EB%8B%9D_11%EC%A1%B0_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C_%EC%B5%9C%EC%A2%85.pdf)
+| [교내] 빅데이터프로젝트 : 캡스톤디자인2 | 우리은행 데이터를 활용한 소상공인과 코로나 분석 | [링크](https://github.com/jipyeong-lee/Korean_Dialect_Translation) |
+| [교내] AI빅데이터프로젝트 : 캡스톤디자인1 | G-ADLFM | [링크](https://github.com/jipyeong-lee/Korean_Dialect_Translation) |
