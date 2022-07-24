@@ -47,8 +47,9 @@ major in **AI Big Data & Management**, and minor in Computer Science.
 ## Education
 | 기간 | 소속 | 전공 & 교육 | 학위 | 비고 |
 | :------: | :------: | :------: | :------: | :------: |
-| 2017.03 ~ | 국민대학교 | 빅데이터경영통계전공(AI빅데이터융합경영학과) | 학사 | 재학 |
-| 2022.06 ~ | SKT | SKT AI Fellowship 4기 | fellow | 진행 중 |
+| 2017.03 ~ | 국민대학교 | 빅데이터경영통계 전공(AI빅데이터융합경영학과) | 제1전공 | 재학 |
+| 2020.03 ~ | 국민대학교 | 소프트웨어 전공 | 융합전공 | 재학 |
+| 2022.06 ~ | SKT | SKT AI FELLOWSHIP 4기 | fellow | 진행 중 |
 
 <br>
 
