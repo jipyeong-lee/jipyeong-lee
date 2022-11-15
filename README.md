@@ -34,9 +34,6 @@ major in **AI Big Data & Management**, and minor in Computer Science.
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> </a>&nbsp 
 </p>
 
-#### Platform
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/> 
-
 <br>
 
 ## Education
