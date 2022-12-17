@@ -72,4 +72,4 @@ major in **AI Big Data & Management**, and minor in Computer Science.
 | [학교] 빅데이터프로젝트 : 캡스톤디자인2 | 우리은행 데이터를 활용한 소상공인과 코로나 분석 | [링크](https://github.com/jipyeong-lee/Capstone2_2021/blob/master/%5B2021%20%EC%BA%A1%EC%8A%A4%ED%86%A4%5D%20%EC%86%8C%EC%83%81%EA%B3%B5%EC%9D%B8%EA%B3%BC%20%EC%BD%94%EB%A1%9C%EB%82%98%20_%20%EB%84%88%ED%9D%AC%EC%9D%80%ED%96%89.pdf) |
 | [학교] AI빅데이터프로젝트 : 캡스톤디자인1 | 사용자 및 아이템에 대한 적응적 표현을 활용한 일반화 추천 시스템(G-ADLFM) | [링크](https://github.com/jipyeong-lee/Capstone1_2022/blob/master/G_ADLFM_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pdf) |
 | [외부] SKT AI FELLOWSHIP 4기 | 이미지 내 개인정보 탐지 기술 개발 | [링크](https://github.com/jipyeong-lee/SKT_AI_FELLOWSHIP) |
-| [학교] 2022 D&A conference | 너의 다음 곡이 보여(Self-Supervised Learning을 이용한 음색 기반 노래 추천 시스템) |  |
+| [학교] 2022 D&A conference | 너의 다음 곡이 보여(Self-Supervised Learning을 이용한 음색 기반 노래 추천 시스템) | [링크](https://github.com/jipyeong-lee/I_See_Your_Next_Song) |
