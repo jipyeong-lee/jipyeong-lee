@@ -60,6 +60,7 @@ major in **AI Big Data & Management**, and minor in Computer Science.
 | [DACON] LH | 구내식당 식수 인원 예측 AI 경진대회 | 13위(2%) | [링크](https://github.com/jipyeong-lee/Dacon/tree/master/%5BLH%5D%EA%B5%AC%EB%82%B4%EC%8B%9D%EB%8B%B9%20%EC%8B%9D%EC%88%98%20%EC%9D%B8%EC%9B%90%20%EC%98%88%EC%B8%A1%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C) |
 | [DACON] 고용정보원 | 잡케어 추천 알고리즘 경진대회	| 13위(2%) | [링크](https://github.com/jipyeong-lee/Dacon/tree/master/%5B%EA%B3%A0%EC%9A%A9%EC%A0%95%EB%B3%B4%EC%9B%90%5D%EC%9E%A1%EC%BC%80%EC%96%B4%20%EC%B6%94%EC%B2%9C%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C) |
 | [DACON] 서울시립대학교 | 2022 UOS 빅데이터 알고리즘 경진대회	| 21위(10%) | [링크](https://github.com/jipyeong-lee/Seoul_Bike) |
+| [DACON] 성균관대학교 | 문장 유형 분류 AI 경진대회	| 16위(5%) | [링크](https://github.com/jipyeong-lee/Seoul_Bike) |
 
 <br>
 
