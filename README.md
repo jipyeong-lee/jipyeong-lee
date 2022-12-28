@@ -8,6 +8,7 @@ major in **AI Big Data & Management**, and minor in Computer Science.
 ## Contact
 [![Instagram](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/jee_p0) 
 [![Mail](https://img.shields.io/badge/leejipyeong@gmail.com-e10915?style=flat-square&logo=Gmail&logoColor=white)](mailto:leejipyeong@gmail.com)
+[![Notion](https://www.notion.so/4033f0c7041e46ec830db8257b2d37e0)
 
 <br>
 
