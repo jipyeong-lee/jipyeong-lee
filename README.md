@@ -35,7 +35,7 @@ major in **AI Big Data & Management**, and minor in Computer Science.
   <br>
   <img src="https://img.shields.io/badge/EXCEL-217346?style=flat-square&logo=Microsoft Excel&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/PPT-B7472A?style=flat-square&logo=Microsoft PowerPoint&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/WORD-#2B579A?style=flat-square&logo=Microsoft Word&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/WORD-2B579A?style=flat-square&logo=Microsoft Word&logoColor=white"/></a>&nbsp
 </p>
 
 <br>
