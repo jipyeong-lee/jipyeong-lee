@@ -31,8 +31,11 @@ major in **AI Big Data & Management**, and minor in Computer Science.
   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=Microsoft Excel&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&logoColor=white"/></a>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/EXCEL-217346?style=flat-square&logo=Microsoft Excel&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/PPT-B7472A?style=flat-square&logo=Microsoft PowerPoint&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/WORD-#2B579A?style=flat-square&logo=Microsoft Word&logoColor=white"/></a>&nbsp
 </p>
 
 <br>
