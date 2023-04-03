@@ -12,8 +12,6 @@ major in **AI Big Data & Management**, and minor in Computer Science.
 <br>
 
 ## Tech Stack 🛠
-#### Techs that I've used at least once
-
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
