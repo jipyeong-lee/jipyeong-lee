@@ -1,5 +1,5 @@
 ## Hello :) 👋
-Hello, I'm Jipyeong Lee, studying **data science** :)
+Hello, I'm Jipyeong Lee, studying **data science** :) \n
 I am going to graduate from Kookmin Univ. in 2023/08
 major in **AI Big Data & Management**, and minor in Computer Science.
 
