@@ -1,6 +1,6 @@
 ## Hello :) 👋
 Hello, I'm Jipyeong Lee, studying **data science** :)
-I am going to graduate from Kookmin Univ. in 2023/08
+I graduated from Kookmin Univ. in 2023/08
 major in **AI Big Data & Management**, and minor in Computer Science.
 
 <br>
@@ -43,7 +43,7 @@ major in **AI Big Data & Management**, and minor in Computer Science.
 | :------: | :------: | :------: | :------: | :------: |
 | 2017.03 ~ 2023.08 | 국민대학교 | 빅데이터경영통계 전공(AI빅데이터융합경영학과) | 제1전공 | 졸업 |
 | 2020.03 ~ 2023.08 | 국민대학교 | 소프트웨어 전공 | 융합전공 | 졸업 |
-| 2022.06.01 ~ 2022.11.17 | SKT | SKT AI FELLOWSHIP 4기 | 2팀 FELLOW | 수료 |
+| 2022.06 ~ 2022.11 | SKT | SKT AI FELLOWSHIP 4기 | 2팀 FELLOW | 수료 |
 
 <br>
 
@@ -52,6 +52,8 @@ major in **AI Big Data & Management**, and minor in Computer Science.
 | :------: | :------: | :------: | :------: |
 | 2022.05.12 | 국민대학교 경영대학 | 혁신창업가상 | 2022 창업아이디어 경진대회 |
 | 2022.11.17 | SKT AI FELLOWSHIP 4기 | 장려상 | 이미지 내 개인정보 탐지 기술 개발 |
+| 2023.08.16 | 국민대학교 | 공로상 | 학생회 활동 및 대내 활동 |
+| 2023.08.16 | 국민대학교 경영대학 | 학업우수상 | Dean's Distinguished Scholar Award |
 
 <br>
 
