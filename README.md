@@ -33,4 +33,4 @@ If anyone would like to discuss this topic further, please feel free to contact 
 | :------: | :------: | :------: | :------: | :------: |
 | 2022.06 ~ 2022.11 | SKT | SKT AI FELLOWSHIP 4기 | 2팀 FELLOW | 수료 |
 | 2022.12 ~ 2023.02 | Slice | 모델 개발 용역 | NER 모델 개발 | 계약 종료 |
-| 2023.04 ~ 현재 | 서울대병원 | 연구원 | NLP, BioSignal | 재직 중 |
+| 2023.04 ~ 현재 | 서울대병원 | Research Engineer | NLP, BioSignal | 재직 중 |
