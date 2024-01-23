@@ -1,5 +1,5 @@
 ## Hello :) 👋
-Hello, I am JiPyong Lee, a research engineer 
+Hello, I am JiPyeong Lee, a research engineer 
 in the Department of Anesthesiology and Pain Medicine at Seoul National University Hospital in Korea. 
 My main area of interest is NLP, and recently, I have been contemplating ways to make life easier through LLMs. 
 If anyone would like to discuss this topic further, please feel free to contact me. I would appreciate it.
